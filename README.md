@@ -1,0 +1,1 @@
+# bert-base-japanese-v2_faiss
